@@ -60,9 +60,6 @@ Datsets related to Data Yield curve
 <b>Python 3.8.7 is required for the python packages to install correctly</b><br>
 <ol>
 
-Req text 
-different pythion script 
-Different parameters and results 
 <li>Directly run the Streamlit</li>
 <li>Clone the repo. Download and install <b>Streamlit server</b> </li>
 <li>Check the requirement.txt file and install all the dependencies using pip install -r requirement.txt</li>
