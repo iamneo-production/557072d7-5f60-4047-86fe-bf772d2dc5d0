@@ -73,7 +73,7 @@ Different parameters and results
 <li>Open your web browser and go to <b>http://localhost/www</b> and click on the wordpress folders to access the web app</li>
 </ol>
 <br>
-<b> Video of setup and demo is available <a href="">here</a></b>
+<b> Video of setup and demo is available <a href="https://youtu.be/slQ4YsFy28s">here</a></b>
 <br>
 
 
