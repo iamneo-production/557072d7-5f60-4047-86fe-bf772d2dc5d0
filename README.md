@@ -6,7 +6,7 @@ https://sonarcloud.io/summary/overall?id=examly-test_557072d7-5f60-4047-86fe-bf7
 *Stock Market Prediction* Web App based on *Machine Learning* and *Sentiment Analysis* of Tweets  * and Financial Models. <a href="https://gaurav7888-nass-app-h64hf0.streamlit.app/">Finally  the Web App is deployed  on **Streamlit.</a>Finally The dataset has beeen taken from  **NASDAQ* or *NSE* .  Predictions are made using three algorithms: *ARIMA, LSTM, etc. 
 
 # Screenshots
-<img src="https://github.com/iamneo-production/557072d7-5f60-4047-86fe-bf772d2dc5d0/tree/main/Screenshots">
+<img src="Screenshots/Screenshot from 2022-11-16 01-14-31.png">
 <img src="">
 
 Find more screenshots in the <b>screenshots folder</b> Or <a href="">click here</a>
