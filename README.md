@@ -3,9 +3,7 @@
 
 
 # Stock-Market-Prediction-Web-App-using-Machine-Learning
-*Stock Market Prediction* Web App based on *Machine Learning* and *Sentiment Analysis* of Tweets  * and Financial Models. Finally  the Web App is deployed  on **Streamlit.  The dataset has beeen taken from  **NASDAQ* or *NSE* .  Predictions are made using three algorithms: *ARIMA, LSTM, Linear Regression. n days with the **sentiment analysis of tweets* to give recommendation whether the price is going to rise or fall
-
-
+*Stock Market Prediction* Web App based on *Machine Learning* and *Sentiment Analysis* of Tweets  * and Financial Models. <a href="https://gaurav7888-nass-app-h64hf0.streamlit.app/">Finally  the Web App is deployed  on **Streamlit.</a>Finally The dataset has beeen taken from  **NASDAQ* or *NSE* .  Predictions are made using three algorithms: *ARIMA, LSTM, etc. 
 
 # Screenshots
 <img src="">
