@@ -69,14 +69,10 @@ Different parameters and results
 <li>Run the command streamlit run app.py --server.port 8080 </li>
 <li>Open http://localhost:8080 and experience the web interface </li>
 
-
-<li>Go to command prompt, change directory to directory of repository and type <b>pip install -r requirements.txt</b></li>
-<li>To run app, type in command prompt, <b>python app.py</b></li>
-<li>Open your web browser and go to <b>http://localhost/www</b> and click on the wordpress folders to access the web app</li>
 </ol>
 <br>
 <b> Video of setup and demo is available <a href="https://youtu.be/slQ4YsFy28s">here</a></b>
 <br>
 
 
-</ul>)
+</ul>
