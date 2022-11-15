@@ -7,7 +7,9 @@ https://sonarcloud.io/summary/overall?id=examly-test_557072d7-5f60-4047-86fe-bf7
 
 # Screenshots
 <img src="Screenshots/Screenshot from 2022-11-16 01-14-31.png">
-<img src="">
+<img src="Screenshots/Screenshot from 2022-11-16 01-15-16.png">
+<img src="Screenshots/Screenshot from 2022-11-16 01-16-06.png">
+<img src="Screenshots/Screenshot from 2022-11-16 01-17-46.png">
 
 Find more screenshots in the <b>screenshots folder</b> Or <a href="">click here</a>
 
