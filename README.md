@@ -19,6 +19,8 @@ Stock market prediction is the act of trying to determine the future value of a 
 We have developed a system which is essentially a web App and it uses machine learning based models coupled with Financial Framework or knowledge. 
 The app forecasts prediction of stock market using algorithms such as Correlation method,Heatmap, KNN Outlier Detection,LOF outlier, Cluster based local outlier factor,isolation forest, One Class Support Vector Machine, COPOD,Mean Absolute Deviation, Log Periodic Power Law Singulairty Model(LPPLS). Deep Learning models based on RNN,LSTM,BI-directional LSTM and Arima. Statistical Methods such as Boxplot,Boxenplot,Violin Plot,Lag Plot,Turkey Method,Z-Score method, Kolmogorov-Smirnov Test,modified Z-Score,Quantile-Quantile Plot(QQ-plot).
 We are considering twitter sentiment with other stock market features to get better accuracy. 
+<img src="Screenshots/Screenshot from 2022-11-16 01-38-05.png">
+<img src="Screenshots/Screenshot from 2022-11-16 01-38-19.png">
 Quant models and Financial Frameworks are also used for observing the pattern in stock market, using data for framing a framework which would predict the stock market crash
 Financial data such as GDP,CPI,Labour Market Data, ISM, Yield Curve, NFIB Small Business Optimism Index etc. 
 Housing Market Data, P/E ratio, D/E ratio,EPS.
