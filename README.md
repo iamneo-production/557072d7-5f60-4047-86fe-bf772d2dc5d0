@@ -64,8 +64,10 @@ Req text
 different pythion script 
 Different parameters and results 
 <li>Directly run the Streamlit</li>
-<li>Clone the repo. Download and install <b>Streamlit server</b> from  and start <b>Apache</b> and <b>MySql</b> servers</li>
-<li>Check the requirement.txt file and install all the dependencies </li>
+<li>Clone the repo. Download and install <b>Streamlit server</b> </li>
+<li>Check the requirement.txt file and install all the dependencies using pip install -r requirement.txt</li>
+<li>Run the command streamlit run app.py --server.port 8080 </li>
+<li>Open http://localhost:8080 and experience the web interface </li>
 
 
 <li>Go to command prompt, change directory to directory of repository and type <b>pip install -r requirements.txt</b></li>
